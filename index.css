@@ -90,6 +90,9 @@
 	 border: 1px solid #D3D3D3;
 	 width: 514px;
 	 height: 42px;
+	 background-image: url(loupe.png);
+	 background-repeat: no-repeat;
+	 background-position: 15px;
 	 
 }
 
